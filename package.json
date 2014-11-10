@@ -10,6 +10,8 @@
     "koa-logger": "^1.2.2",
     "koa-router": "^3.6.0",
     "koa-static": "^1.4.7",
-    "koa-views": "^2.1.0"
+    "koa-views": "^2.1.0",
+    "bluebird": "~2.3.11",
+    "then-jade": "~2.2.1"
   }
 }
